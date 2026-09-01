@@ -1,6 +1,6 @@
 # Exp 5 Apriori Algorithm
 
-**Date:**25/08/2026
+**Date:**25/08/2026.
 
 ## AIM:
 
