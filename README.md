@@ -99,5 +99,3 @@ for k in range(1, len(items) + 1):
 
 ## RESULT:
 The Apriori Algorithm was implemented successfully in Python. Frequent itemsets were generated from the transaction dataset by calculating the support count and applying the specified minimum support count.
-
-The Apriori Algorithm was implemented successfully in Python. Frequent itemsets were generated from the transaction dataset by calculating the support count and applying the specified minimum support count.
